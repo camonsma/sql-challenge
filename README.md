@@ -5,3 +5,6 @@ SQL challenge
 # the creation scripts are located
 ...\sql-challenge\EmployeeSQL\TableCreationScript
 # Imported the data using the csv import of PgreSQL dbms system.
+...\sql-challenge\EmployeeSQL\
+# The query file is name quieries.sql
+...\sql-challenge\EmployeeSQL\quieries.sql
